@@ -1,0 +1,32 @@
+[printer Voron24]
+moonraker_host:127.0.0.1 
+moonraker_port:7125
+
+[printer E5S1]
+moonraker_host:piefive.local 
+moonraker_port:7125
+
+[printer Sk1]
+moonraker_host:liltree.local 
+
+moonraker_port:7125
+
+[
+printer MercuryOne]
+moonraker_host:mercuryone.local
+moonraker_port:7125
+
+[printer SV06]
+moonraker_host:potato.local
+moonraker_port:7125
+#~# --- Do not edit below this line. This section is auto generated --- #~#
+#~#
+#~# [main]
+#~# font_size = small
+#~# 24htime = False 
+#~# print_sort_dir = date_desc
+#~# 
+#~# [graph E5S1]
+#~# temperature_sensor chamber = False
+#~# 
+#~#
